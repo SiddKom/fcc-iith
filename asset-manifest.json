@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad12d1f3.css",
+    "main.js": "/static/js/main.e725810f.js",
+    "static/media/gifStocks.webp": "/static/media/gifStocks.4b27242474a635a28b86.webp",
+    "static/media/horizonLogo.png": "/static/media/horizonLogo.85e57a3b4b66d2d8f20d.png",
+    "static/media/fccLogo.png": "/static/media/fccLogo.ae050bd67e188b216fd8.png",
+    "static/media/consultingFavicon.webp": "/static/media/consultingFavicon.840c777b794092055e47.webp",
+    "index.html": "/index.html",
+    "main.ad12d1f3.css.map": "/static/css/main.ad12d1f3.css.map",
+    "main.e725810f.js.map": "/static/js/main.e725810f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad12d1f3.css",
+    "static/js/main.e725810f.js"
+  ]
+}
