@@ -4,9 +4,9 @@ import horizonLogo from "../Assets/horizonLogo.png"
 const About = () => {
   return (
     <div className="about-section-container">
-      <div className="about-section-image-container">
-      </div>
-        <div className="home-image">
+      {/* <div className="about-section-image-container">
+      </div> */}
+        {/* <div className="home-image">
         <div
   className="horizon-card d-flex flex-column align-items-start"
   style={{
@@ -16,8 +16,8 @@ const About = () => {
     opacity: 1,
     transform: "translate(0px, 0px)"
   }}
->
-  <div className="heading">
+> */}
+  {/* <div className="heading">
     <div className="fs-4">FCC, IIT Hyderabad</div>
     <img
       className="horizon-logo "
@@ -26,12 +26,12 @@ const About = () => {
       width={60}
       height={50}
     />
-  </div>
-  <div className="horizon-title">
+  </div> */}
+  {/* <div className="horizon-title">
     <h1>Horizon</h1>
-    {/* <img src="images/wifi.svg" alt="" width="50" height="50"> */}
-  </div>  
-  <div className="timer w-100">
+    <img src="images/wifi.svg" alt="" width="50" height="50">
+  </div>   */}
+  {/* <div className="timer w-100">
     <div className="countdown-container ">
       <div className="days fs-4">
         <span id="days"> 00</span> <br />
@@ -50,10 +50,10 @@ const About = () => {
         <span>sec</span>
       </div>
     </div>
-  </div>
-</div>
+  </div> */}
+{/* </div>
 
-      </div>
+      </div> */}
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <h1 className="primary-heading">

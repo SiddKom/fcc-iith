@@ -102,7 +102,7 @@ nav {
   
     padding: 0 20px 20px 20px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     font-family: "Ikaros Sans", sans-serif;
@@ -189,10 +189,13 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-direction: column;
+  max-width: 55%;
+  margin-left: 22%;
 }
 .about-section-image-container {
   flex: 0.9;
-  margin-right: 1rem;
+  margin-right: 30%;
 }
 .about-section-text-container {
   flex: 1;
@@ -208,21 +211,6 @@ nav {
 .about-buttons-container {
   margin-top: 2rem;
   display: flex;
-}
-.watch-video-button {
-  margin-left: 2rem;
-  background-color: transparent;
-  outline: none;
-  border: none;
-  border-radius: 5rem;
-  font-size: 1.1rem;
-  cursor: pointer;
-  font-weight: 600;
-  color: #484848;
-  transition: 0.2s;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 .watch-video-button svg {
   font-size: 3rem;
