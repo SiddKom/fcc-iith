@@ -1,5 +1,5 @@
 import React from "react";
-import horizonLogo from "../Assets/horizonLogo.png"
+// import horizonLogo from "../Assets/horizonLogo.png"
 
 const About = () => {
   return (
